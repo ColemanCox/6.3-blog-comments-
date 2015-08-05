@@ -1,0 +1,18 @@
+{
+  "name": "6.3-blog-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "broccoli": "^0.16.5",
+    "broccoli-handlebars-precompiler": "^0.1.1",
+    "broccoli-merge-trees": "^0.2.2",
+    "broccoli-sass": "^0.6.6",
+    "broccoli-sourcemap-concat": "^1.0.2"
+  }
+}
